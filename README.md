@@ -17,25 +17,8 @@ Built with TensorFlow/Keras, trained on a custom dataset in Google Colab, and de
 
 📂 Project Structure
 
-NLP/
-│── dataset/
-│ ├── Images/ # Dataset images
-│ └── captions.txt # Captions dataset
-│
-│── models/
-│ ├── feature_extractor.keras
-│ ├── model.keras
-│ ├── tokenizer.pkl
-│ └── flickr8k-image-captioning.h5 (if needed)
-│
-│── notebooks/
-│ └── collab_file.ipynb # Colab training/testing notebook
-│
-│── .gitignore # Ignore unnecessary files
-│── main.py # Streamlit / app entry point
-│── README.md # Project documentation
-│── requirements.txt # Dependencies
-│── uploaded_image.jpg # Sample image for demo
+<img width="550" height="400" alt="image" src="https://github.com/user-attachments/assets/e1ebc7c5-ee37-4983-8778-35f168a54e97" />
+
 
 ⚙️ Installation
 
@@ -103,7 +86,7 @@ Pillow
 Upload Image Generated Caption
 
 
-<img width="1917" height="965" alt="image" src="https://github.com/user-attachments/assets/263e4292-cb1f-4e02-b81b-2cc39d8875ad" />
+<img width="750" height="550" alt="image" src="https://github.com/user-attachments/assets/263e4292-cb1f-4e02-b81b-2cc39d8875ad" />
 
 
 
