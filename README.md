@@ -39,6 +39,8 @@ NLP/
 
 ⚙️ Installation
 
+1. Download dataset (images and captions): https://www.kaggle.com/datasets/adityajn105/flickr8k
+
 1. Clone the repository
    git clone https://github.com/Sanchettol/Image-Caption-Generator-using-Deep-Learning.git
    cd NLP
@@ -49,9 +51,11 @@ NLP/
    venv\Scripts\activate # Windows
 
 3. Install dependencies
+   pip install streamlit
+   pip install tensorflow
    pip install -r requirements.txt
 
-▶️ Usage
+▶️ Usage (run the project)
 Run the Streamlit app
 streamlit run main.py
 
@@ -75,6 +79,7 @@ Evaluation on test images
 📊 Dataset
 
 The dataset used is included in the dataset/ folder (or you can download MS COCO/Flickr8k).
+or you can install the dataset from: https://www.kaggle.com/datasets/adityajn105/flickr8k
 
 Captions are mapped to corresponding images.
 
@@ -96,6 +101,8 @@ Pillow
 
 🌟 Screenshots
 Upload Image Generated Caption
+
+<img width="1917" height="965" alt="image" src="https://github.com/user-attachments/assets/263e4292-cb1f-4e02-b81b-2cc39d8875ad" />
 
     "Two people are walking on the beach"
 
