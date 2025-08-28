@@ -102,9 +102,10 @@ Pillow
 🌟 Screenshots
 Upload Image Generated Caption
 
+
 <img width="1917" height="965" alt="image" src="https://github.com/user-attachments/assets/263e4292-cb1f-4e02-b81b-2cc39d8875ad" />
 
-    "Two people are walking on the beach"
+
 
 🤝 Contributing
 
