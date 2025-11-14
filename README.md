@@ -86,7 +86,8 @@ Pillow
 Upload Image Generated Caption
 
 
-<img width="750" height="550" alt="image" src="https://github.com/user-attachments/assets/263e4292-cb1f-4e02-b81b-2cc39d8875ad" />
+<img width="750" height="550" alt="image" src="https://github.com/user-attachments/assets/01bcd734-5f27-46e6-86be-bbf4b552facc" />
+" />
 
 
 
